@@ -1,0 +1,9 @@
+xboxdumper (0.1-1) unstable; urgency=low
+
+  * Initial release.
+
+ -- root <root@>  Fri, 28 Mar 2003 17:08:25 +0000
+
+Local variables:
+mode: debian-changelog
+End:

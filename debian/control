@@ -1,0 +1,16 @@
+Source: xboxdumper
+Section: unknown
+Priority: optional
+Maintainer: root <root@>
+Standards-Version: 3.2.1
+
+Package: xboxdumper
+Architecture: any
+Depends: ${shlibs:Depends}
+Description: Missing
+ Missing
+
+Package: xboxdumper-doc
+Architecture: all
+Description: Documentation
+ Missing
